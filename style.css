@@ -7,7 +7,12 @@
     /* border: 1px solid rgb(199, 24, 53);*/
     box-sizing: border-box;
 }
-
+p{
+    line-height: 2;
+}
+h4{
+    line-height: 2;
+}
 /* Section 1 */
 .section1 {
     display: flex;
@@ -74,7 +79,7 @@
     flex-direction: column;
     flex: 1;
     width: 100%;
-    border: 1px solid lightgrey;
+    border: 1px solid pink;
     border-radius: 10px;
     gap: 10px;
     padding: 15px 10px;
